@@ -1,0 +1,27 @@
+i forget to save refrences one by one so there's not all the refrences i'm realy sorrey for that
+
+https://dev.to/thalesbruno/subplotting-with-matplotlib-and-seaborn-5ei8
+
+https://www.youtube.com/watch?v=txMdrV1Ut64&t=2026s
+
+https://www.youtube.com/watch?v=Lw2rlcxScZY&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&index=4
+
+https://github.com/CoreyMSchafer/code_snippets/blob/master/Python/Pandas/04-Filtering/Pandas-Demo.ipynb
+
+https://github.com/CoreyMSchafer/code_snippets/blob/master/Python/Pandas/08-Grouping-Aggregates/Pandas-Demo.ipynb
+
+https://seaborn.pydata.org/tutorial/categorical.html
+
+https://seaborn.pydata.org/tutorial.html
+
+https://www.youtube.com/watch?v=Bjz00ygERxY&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3
+
+"read some codes inspired me "
+https://www.kaggle.com/joniarroba/noshowappointments/code
+
+https://stackoverflow.com/a/52753707/17428667
+
+https://www.geeksforgeeks.org/how-to-rename-columns-in-pandas-dataframe/
+
+https://www.statcan.gc.ca/en/concepts/definitions/age2
+
